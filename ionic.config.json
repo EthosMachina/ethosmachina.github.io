@@ -1,0 +1,7 @@
+{
+  "name": "ethosmachina.github.io",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
